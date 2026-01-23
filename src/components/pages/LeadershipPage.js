@@ -15,7 +15,7 @@ const LeadershipPage = () => {
       education: "Senior at San Leandro High School",
       shortEducation: "Senior at San Leandro High School",
       image: "/images/Fang.png",
-    },
+    }, 
   ];
 
   const openModal = (leader) => {
