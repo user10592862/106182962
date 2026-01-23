@@ -8,7 +8,7 @@ const LeadershipPage = () => {
   const leadershipTeam = [
     {
       name: "Jason Fang",
-      position: "Founder & Chief Executive Officer",
+      position: "Founder & Chief Executive Officer", 
       detailedDescription: "Jason Fang is the Founder and Chief Executive Officer (CEO) of Fang Enterprises. He is a visionary leader with over 5 years o technical experience and a passion for innovation. Jason has previously led product initiatives at several Fortune 500 companies and founded Fang Enterprises with a mission to transform industries through revolutionary technology solutions that deliver real-world impact.",
       expertise: ["Technology Innovation", "Business Strategy", "Product Development"],
       background: "Founder of Techtuality Global",
